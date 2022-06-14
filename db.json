@@ -1,0 +1,19 @@
+{
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "Shiwank . Pathak",
+      "email": "shiwankpathak12@gmail.com",
+      "mobile": "9654853779",
+      "address": "G-2/32, Budh Vihar Ph-1",
+      "services": "er"
+    }
+  ],
+  "signup": [
+    {
+      "email": "kjerker",
+      "password": "ejkerkj",
+      "id": 1
+    }
+  ]
+}
